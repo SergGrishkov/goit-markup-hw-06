@@ -90,6 +90,7 @@
     width: 408px;
   }
 }
+
 @media (min-width: 1158px) {
   section {
     padding: 120px 0;
@@ -160,6 +161,7 @@
     margin-right: 80px;
   }
 }
+
 @media (resolution: 192dpi) {
   .section-main {
     background-image: linear-gradient(
